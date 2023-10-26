@@ -1,16 +1,14 @@
-### Hi there 👋
+Welcome to my GitHub 😁
 
-<!--
-**connorgunter/connorgunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a student at General Assembly in the Software Engineering Immersive course! 🧠
 
-Here are some ideas to get you started:
+This will be a good look at my progress throughout the course and my further studies 📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning all about the DOM in JS 🤔
+
+Languages I use! 🤖
+- HTML -> Structure of a WebPage]
+- CSS -> To make it look pretty
+- JavaScript -> To make it interactive!
+
+Fun Fact about me -> I have 2 kittens named Lilo and Stitch and they keep me busy when I am not coding!🐈
