@@ -12,3 +12,7 @@ Languages I use! 🤖
 - JavaScript -> To make it interactive!
 
 Fun Fact about me -> I have 2 kittens named Lilo and Stitch and they keep me busy when I am not coding!🐈
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=connorgunter)](https://github.com/anuraghazra/github-readme-stats)
+
