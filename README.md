@@ -7,7 +7,7 @@ This will be a good look at my progress throughout the course and my further stu
 I'm currently learning all about the DOM in JS 🤔
 
 Languages I use! 🤖
-- HTML -> Structure of a WebPage]
+- HTML -> Structure of a WebPage
 - CSS -> To make it look pretty
 - JavaScript -> To make it interactive!
 
