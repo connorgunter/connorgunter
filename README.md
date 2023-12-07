@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A MEN Stack Application with developers from my bootcamp**
 
-- 🌱 I’m currently learning **React Components**
+- 🌱 I’m currently learning **React Components and State!**
 
 - 💬 Ask me about **JavaScript**
 
