@@ -3,9 +3,9 @@
 <h3 align="center">I am currently a student at General Assembly in the Software Engineering Immersive course! 🧠</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y2a2Z6ejdpdWFwaWFlMXNhcnpoZGlvNjJvOWUzZnFncWQ1Zm51biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **Improving my portfolio website!**
+- 🔭 I’m currently working on **A Dynamic Weather App!**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently tuning up my **React Skills**
 
 - 💬 Ask me about **JavaScript DOM**
 
