@@ -1,6 +1,6 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Connor Gunter</h1>
-<h3 align="center">I am currently a student at General Assembly in the Software Engineering Immersive course! 🧠</h3>
+<h3 align="center">General Assembly Alumni 🧠</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y2a2Z6ejdpdWFwaWFlMXNhcnpoZGlvNjJvOWUzZnFncWQ1Zm51biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 I’m currently working on **A Dynamic Weather App!**
