@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **A Dynamic Weather App!**
 
-- 🌱 I’m currently tuning up my **React Skills**
-
-- 💬 Ask me about **JavaScript DOM**
+- 🌱 I’m currently on the **Job Hunt and Working on my Portfolio**
 
 - 📫 How to reach me **connorgunter02@gmail.com**
 
